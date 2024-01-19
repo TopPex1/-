@@ -7,5 +7,5 @@
 ![image](https://github.com/TopPex1/join-and-quit-Minecraft-Plugin/assets/157121992/6fefff99-b5ee-41cd-8d0b-fb7abf6359db)
 사진에서 밑줄친 곳을 RED,BLUE,GREEN,YELLOW 등으로 바꾸면됩니다
 
-*이런게 귀찮으신 분들은 그냥 스크립트 플러그인으로 스크립트 만드는게 낫습니다.
+*이런게 귀찮으신 분들은 그냥 스크립트 플러그인으로 스크립트 만드는게 낫습니다.(더 간단 하거든요)
 
