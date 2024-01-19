@@ -4,6 +4,7 @@
 마크 플러그인이나 java같은 프로그래밍 언어를 잘 몰라서 간단한 입퇴장메세지를 만들어봤습니다.
 
 
+- 텍스트 색상 바꾸고 싶은 분들은 밑에 글과사진 봐주세요 (앞에 있는 GOLD가 플레이어 닉네임 색상 뒤에 있는 AQUA가 님이 (나가/참가)셨습니다에 대한 색상입니다.
 ![image](https://github.com/TopPex1/join-and-quit-Minecraft-Plugin/assets/157121992/6fefff99-b5ee-41cd-8d0b-fb7abf6359db)
 사진에서 밑줄친 곳을 RED,BLUE,GREEN,YELLOW 등으로 바꾸면됩니다
 
