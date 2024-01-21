@@ -31,14 +31,14 @@ public final class Test5 extends JavaPlugin implements Listener, CommandExecutor
     public void join(PlayerJoinEvent a) {
         String p = a.getPlayer().getName();
 
-        a.setJoinMessage(ChatColor.GOLD + p + ChatColor.AQUA + "님이 서버에서 참가하셨습니다.");
+        a.setJoinMessage(ChatColor.GOLD + p + ChatColor.AQUA + "님이 서버에 참가하셨습니다.");
     }
 
     @EventHandler
     public void quit(PlayerQuitEvent a) {
         String p = a.getPlayer().getName();
 
-        a.setQuitMessage(ChatColor.GOLD + p + ChatColor.RED + "님이 서버에서 나가셨습니다.");
+        a.setQuitMessage(ChatColor.GOLD + p + ChatColor.RED + "님이 서버에 나가셨습니다.");
     }
 
  
